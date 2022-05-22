@@ -1,0 +1,28 @@
+.css-1byr0tz { 
+    background: #F2F3F6 !important; 
+}
+
+button.ReactTags__remove{
+    margin-left: 10px;
+    background: transparent;
+}
+
+span.tag-wrapper.ReactTags__tag{
+    opacity: 1;
+    cursor: move;
+    padding: 10px;
+    background: azure;
+    border-radius: 4px;
+    margin: 10px;
+}
+
+/* button.MuiButton-root.MuiButton-text.MuiButton-textPrimary.MuiButton-sizeMedium.MuiButton-textSizeMedium.MuiButtonBase-root.sw-button.dark.medium.css-1rh7pae{
+    background: #D82148;
+    border-radius: 10px;
+    margin: 0 10px;
+    border: none;
+} */
+
+
+
+
